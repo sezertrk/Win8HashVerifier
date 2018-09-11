@@ -1,0 +1,14 @@
+C:\Win8HashVerifier\Win8HashVerifier\bin\Release\Win8HashVerifier.exe
+C:\Win8HashVerifier\Win8HashVerifier\bin\Release\Win8HashVerifier.pdb
+C:\Win8HashVerifier\Win8HashVerifier\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Win8HashVerifier\Win8HashVerifier\obj\x86\Release\Win8HashVerifier.Form1.resources
+C:\Win8HashVerifier\Win8HashVerifier\obj\x86\Release\Win8HashVerifier.Properties.Resources.resources
+C:\Win8HashVerifier\Win8HashVerifier\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Win8HashVerifier\Win8HashVerifier\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Win8HashVerifier\Win8HashVerifier\obj\x86\Release\Win8HashVerifier.exe
+C:\Win8HashVerifier\Win8HashVerifier\obj\x86\Release\Win8HashVerifier.pdb
+C:\Win8HashVerifier\Win8HashVerifier\bin\Release\Win8HashVerifier.exe.manifest
+C:\Win8HashVerifier\Win8HashVerifier\bin\Release\Win8HashVerifier.application
+C:\Win8HashVerifier\Win8HashVerifier\obj\x86\Release\Win8HashVerifier.TrustInfo.xml
+C:\Win8HashVerifier\Win8HashVerifier\obj\x86\Release\Win8HashVerifier.exe.manifest
+C:\Win8HashVerifier\Win8HashVerifier\obj\x86\Release\Win8HashVerifier.application
